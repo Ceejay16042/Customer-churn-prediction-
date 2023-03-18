@@ -1,7 +1,7 @@
 Exploratory Data Analysis and model prediction on Customer churn
 
 Terminologies used:
-1. churned customers - customers who fail to become an repeated user of a product, thereby leaving for another product
+1. churned customers - customers who fail to become a repeated user of a product, thereby leaving for another product
 2. active customers - customers currently using the product
 3. LTV - Life time Value
 
